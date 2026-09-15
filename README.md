@@ -133,10 +133,7 @@ The current prototype faces challenges related to:
 * Operation in unstructured agricultural environments
 * Muddy and wet soil conditions
 * Robust crop detection and classification
-* Real-time processing
-* Energy efficiency
 * Human–automation interaction
-* Data privacy and security
 
 ## Future Work
 
